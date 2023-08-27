@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #FBF5EF;
+    color: #2A0A12 ;
 }
 
 header {
@@ -58,7 +59,7 @@ header {
 }
 
 .email-form button {
-    background-color: #333;
+    background-color: #6E6E6E;
     color: white;
     border: none;
     border-radius: 5px;
