@@ -7,13 +7,13 @@ body {
 }
 
 header {
-    background-color: #F6CEEC;
+    background-color: #F2E0F7;
     color: #2A0A12;
     padding: 5rem 0;
     text-align: center;
-    font-family:<style>
-    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Libre+Baskerville&display=swap');
-  </style>
+    font-family:
+    url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Libre+Baskerville&display=swap');
+  
     
 }
 
@@ -21,6 +21,7 @@ header {
     font-size: 8rem;
     font-weight: bold;
     font-family: Dancing Script
+    
 }
 
 .nav-links {
