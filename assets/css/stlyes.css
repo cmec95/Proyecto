@@ -1,0 +1,132 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FBF5EF;
+}
+
+header {
+    background-color: #F6CEEC;
+    color: #2A0A12;
+    padding: 5rem 0;
+    text-align: center;
+    font-family:<style>
+    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Libre+Baskerville&display=swap');
+  </style>
+    
+}
+
+.logo {
+    font-size: 8rem;
+    font-weight: bold;
+    font-family: Dancing Script
+}
+
+.nav-links {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+}
+
+.nav-links li {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+.nav-links a {
+    color: #FBEFFB;
+    text-decoration: none;
+}
+
+
+.jumbotron {
+    background-color: #FBEFEF;
+    text-align: center;
+    padding: 0rem 0;
+    font-family: 'Playfair Display';
+    color: #2A0A12;
+}
+
+.email-form {
+    margin-top: 2rem;
+}
+
+.email-form input {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+}
+
+.email-form button {
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.catalog {
+    text-align: center;
+    padding: 4rem 0;
+    font-family: 'Playfair Display';
+    size: 30%;
+}
+
+.product {
+    margin: 2rem;
+}
+
+.product img {
+    max-width: 50%;
+    height: auto;
+}
+
+
+.additional {
+    background-color: #F6D8CE;
+    text-align: center;
+    padding: 4rem 0;
+    font-family: 'Playfair Display';
+}
+
+footer {
+    background-color: #FBEFEF;
+    color: #190710;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.social-links img {
+    width: 40px;
+    height: auto;
+    margin: 10px;
+    margin-top: 1rem;
+    
+}
+
+.social-links {
+    margin: 0 0.5rem;
+    margin-top: 1rem;
+}
+
+
+@media (max-width: 200px) {
+    .nav-links {
+        display: none;
+    }
+
+    .logo {
+        font-size: 1.2rem;
+    }
+}
+.background-image {
+    background-image: url('https://www.mundoprimaria.com/wp-content/uploads/2021/04/nombres-de-flores-de-ninas-y-ninos-y-su-significado.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 50vh;
+    
+
+}
